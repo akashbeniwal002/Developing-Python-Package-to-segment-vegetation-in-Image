@@ -19,7 +19,7 @@ Data was captured throughout the year using a phenocam in a Canadian forest cons
 Our analysis focuses on the evolution of coniferous tree vegetation.
 
 <p align='center'>
-<img src="./assets/video1.gif" alt="Forest Images" width="350" height="256" >
+<img src="./assets/video1.gif" alt="Forest Images" width="450" height="330" >
 </p>
 
 **Labelling** : The images were manually labelled using the LabelME software. Polygon-shaped annotations were added to outline tree categories within each image. Corresponding label names, representing tree categories, are assigned to each polygon. 
