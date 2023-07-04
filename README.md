@@ -99,9 +99,8 @@ f1-score : 0.9235
   </tr>
  </table>
 
-</details>
 <br>
-
+</details>
 
 # **2. Phenology Analysis**
 <details>
@@ -178,8 +177,8 @@ $\frac{∂y'}{∂EoS} = -\left({DecayRate}\right)\left({max- min}\right)\left({�
 $\frac{∂y'}{∂GrowthRate} = -\left({DoY - SoS}\right)\left({max- min}\right)\left({σ1}\right)\left({1-σ1}\right)$, &nbsp;&nbsp;
 $\frac{∂y'}{∂DecayRate} = \left({DoY -EoS}\right)\left({max- min}\right)\left({σ2}\right)\left({1-σ2}\right)$ 
 
-</details>
 <br>
+</details>
 
 # **3. Application Integration: 'phenoAI' python Package**
 <details>
