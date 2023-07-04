@@ -151,7 +151,8 @@ Greenness w.r.t time follow below curve:<br>
 <p align='center'>
 <img  src="./assets/function.png" width="400" height="200" />
 </p>
-Function for representing Greenness evolution: 
+Function for representing Greenness evolution:
+
 <math>
 {y'}\left({DoY}\right)={min}+\left({max}-{min}\right)\left(\underbrace{\frac{\mathbf{1}}{{\mathbf{1}+{e}}^{-{GrowthRate}\left({DoY}-{SoS}\right)}}}_{σ1}+\underbrace{\frac{\mathbf{1}}{{\mathbf{1}+{e}}^{{DecayRate}\left({DoY}-{EoS}\right)}}}_{σ2}-\mathbf{1}\right)
 </math>
