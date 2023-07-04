@@ -9,6 +9,7 @@ The core of this application is a Python package that encompasses two main tasks
 <br>
 
 # **1. Image Segmentation: Vegetation Extraction**
+<details>
 
 (Refer [Vegetation Image Segmentation.ipynb](Vegetation%20Image%20Segmentation.ipynb) notebook)
 <br>
@@ -98,6 +99,8 @@ f1-score : 0.9235
  </table>
 
 <br>
+
+</details>
 
 # **2. Phenology Analysis**
 (Refer [Phenology Analysis.ipynb](Phenology%20Analysis.ipynb) notebook for the code)
