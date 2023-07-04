@@ -153,11 +153,7 @@ Greenness w.r.t time follow below curve:<br>
 </p>
 Function for representing Greenness evolution:
 
-<math>
-
-${y'}\left({DoY}\right)={min}+\left({max}-{min}\right)\left(\underbrace{\frac{{1}}{{{1}+{e}}^{-{GrowthRate}\left({DoY}-{SoS}\right)}}}_{σ1}+\underbrace{\frac{{1}}{{{1}+{e}}^{{DecayRate}\left({DoY}-{EoS}\right)}}}_{σ2}-{1}\right)$
-
-</math>
+$${y'}\left({DoY}\right)={min}+\left({max}-{min}\right)\left({\frac{{1}}{{{1}+{e}}^{-{GrowthRate}\left({DoY}-{SoS}\right)}}}_{σ1}+{\frac{{1}}{{{1}+{e}}^{{DecayRate}\left({DoY}-{EoS}\right)}}}_{σ2}-{1}\right)$$
 
 <h3>(e) Phenological Parameters Estimation</h3>
 The double logistic function involved six parameters: maximum and minimum GCC values, Greenness growth and decay rates, and start and end dates of season(sos &eos).
