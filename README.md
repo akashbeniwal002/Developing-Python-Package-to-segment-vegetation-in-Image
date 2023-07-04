@@ -154,7 +154,7 @@ Greenness w.r.t time follow below curve:<br>
 Function for representing Greenness evolution:
 
 <p align='center'>
-<img  src="./assets/double%20logistic%20formula.png" width="1117" height="142" />
+<img  src="./assets/double%20logistic%20formula.png" width="787" height="100" />
 </p>
 <!-- 
 ${y'}\left({DoY}\right)={min}+\left({max}-{min}\right)\left(\underbrace{\frac{{1}}{{{1}+{e}}^{-{GrowthRate}\left({DoY}-{SoS}\right)}}}_{σ1}+\underbrace{\frac{{1}}{{{1}+{e}}^{{DecayRate}\left({DoY}-{EoS}\right)}}}_{σ2}-{1}\right)$ -->
