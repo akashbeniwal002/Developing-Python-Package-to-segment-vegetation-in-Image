@@ -10,6 +10,7 @@ The core of this application is a Python package that encompasses two main tasks
 
 # **1. Image Segmentation: Vegetation Extraction**
 <details>
+<summary></summary>
 
 (Refer [Vegetation Image Segmentation.ipynb](Vegetation%20Image%20Segmentation.ipynb) notebook)
 <br>
@@ -98,11 +99,13 @@ f1-score : 0.9235
   </tr>
  </table>
 
+</details>
 <br>
 
-</details>
 
 # **2. Phenology Analysis**
+<details>
+<summary></summary>
 (Refer [Phenology Analysis.ipynb](Phenology%20Analysis.ipynb) notebook for the code)
 
 
@@ -175,10 +178,13 @@ $\frac{∂y'}{∂EoS} = -\left({DecayRate}\right)\left({max- min}\right)\left({�
 $\frac{∂y'}{∂GrowthRate} = -\left({DoY - SoS}\right)\left({max- min}\right)\left({σ1}\right)\left({1-σ1}\right)$, &nbsp;&nbsp;
 $\frac{∂y'}{∂DecayRate} = \left({DoY -EoS}\right)\left({max- min}\right)\left({σ2}\right)\left({1-σ2}\right)$ 
 
+</details>
 <br>
 
 # **3. Application Integration: 'phenoAI' python Package**
-
+<details>
+<summary></summary>
+  
 (Refer [PhenoAI package functioning.ipynb](PhenoAI%20package%20functioning.ipynb) notebook)
 
 The PhenoAI package can be installed from provided whl file containing the modules of the package by running the following command in an jupyter environment:
@@ -302,3 +308,4 @@ pheno.saveCCsTimeSeries(r"G:\packege testing")
 ```
 <img  src="./assets/time%20series%20excel.png" width="650" height="200" /> 
 
+</details>
