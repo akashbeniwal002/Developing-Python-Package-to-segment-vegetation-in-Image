@@ -11,7 +11,6 @@ The core of this application is a Python package that encompasses two main tasks
 # **1. Image Segmentation: Vegetation Extraction**
 
 <details>
-<summary></summary>
 
 (Refer [Vegetation Image Segmentation.ipynb](Vegetation%20Image%20Segmentation.ipynb) notebook)
 <br>
