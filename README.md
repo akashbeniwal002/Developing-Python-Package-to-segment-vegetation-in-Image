@@ -101,7 +101,7 @@ f1-score : 0.9235
  </table>
 
 <br>
-
+</details>
 
 # **2. Phenology Analysis**
 <details>
