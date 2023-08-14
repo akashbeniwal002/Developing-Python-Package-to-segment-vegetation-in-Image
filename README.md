@@ -10,7 +10,7 @@ The core of this application is a Python package that encompasses two main tasks
 
 # **1. Image Segmentation: Vegetation Extraction**
 
-<details>
+
 
 (Refer [Vegetation Image Segmentation.ipynb](Vegetation%20Image%20Segmentation.ipynb) notebook)
 <br>
@@ -100,11 +100,10 @@ f1-score : 0.9235
  </table>
 
 <br>
-</details>
+
 
 # **2. Phenology Analysis**
-<details>
-<summary></summary>
+
 (Refer [Phenology Analysis.ipynb](Phenology%20Analysis.ipynb) notebook for the code)
 
 
@@ -179,11 +178,8 @@ $\frac{∂y'}{∂DecayRate} = \left({DoY -EoS}\right)\left({max- min}\right)\lef
 
 <br>
 
-</details>
-
 # **3. Application Integration: 'phenoAI' python Package**
-<details>
-<summary></summary>
+
   
 (Refer [PhenoAI package functioning.ipynb](PhenoAI%20package%20functioning.ipynb) notebook)
 
@@ -307,7 +303,3 @@ Saving all the record of parameters and chromatic coordinates:
 pheno.saveCCsTimeSeries(r"G:\packege testing")
 ```
 <img  src="./assets/time%20series%20excel.png" width="650" height="200" /> 
-
-</details>
-
-<br>
